@@ -23,4 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.teamakc.testerapp", appContext.getPackageName());
     }
+    //Cath WAZ ere
+    //cath was here in myBranch
 }

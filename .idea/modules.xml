@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
+      <module fileurl="file://$PROJECT_DIR$/.idea/TesterApp.iml" filepath="$PROJECT_DIR$/.idea/TesterApp.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/TesterApp.iml" filepath="$PROJECT_DIR$/TesterApp.iml" />
+      <module fileurl="file://C:\Users\Ken\AndroidStudioProjects\TesterApp\TesterApp.iml" filepath="C:\Users\Ken\AndroidStudioProjects\TesterApp\TesterApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Ken\AndroidStudioProjects\TesterApp\app\app.iml" filepath="C:\Users\Ken\AndroidStudioProjects\TesterApp\app\app.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
